@@ -9,7 +9,7 @@ const Faq = () => {
     return (
         <div className='container'>
             <div className='faq'>
-                <h1>FAQ</h1>
+                <h1>Q & A</h1>
                 {
                     faq.map(faq => <Faqss key={faq.id} faq={faq} />)
                 }
