@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-WeebSite :
+WebSite :
 https://show-hide-faq.netlify.app/
 
 In the project directory, you can run:
